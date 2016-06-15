@@ -1,10 +1,6 @@
 # onion/      URI      List      
 onion/ URI List (All URIs come from the Internet)
-		
-
-
-
-自由
+	自由
 		http://skunksworkedp2cg.onion/sites_title.html   暗网导航地址
 		http://deepwikizpkrt67e.onion/index.php/Main_Page   wiki镜像地址
 		http://xkinderdwpcbdwow.onion/        Xkinder （CP）
@@ -41,7 +37,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://kbhpodhnfxl3clb4.onion/       托尔搜索
 		http://cipollatnumrrahd.onion/       洋葱2.0（英文）
 		http://dppmfxaacucguzpc.onion/        TorDir       一个在Tor的最古老的链接列表
-金融市场
+	金融市场
 		http://torbrokerge7zxgq.onion/        TorBroker       证券交易与匿名比特币，目前支持近1000个股和ETF
 		http://fogcore5n3ov3tui.onion/        Bitcoin的雾      比特币洗衣
 		http://2vx63nyktk4kxbxb.onion/       自动PAYPAL和信用卡STORE
@@ -56,7 +52,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://nr6juudpp4as4gjg.onion/pptobtc.html       贝宝比特币
 		http://nr6juudpp4as4gjg.onion/doublecoins.html       双人您的比特币
 		http://lw4ipk5choakk5ze.onion/raw/4588/       高品质教程
-市场商业服务
+	市场商业服务
 		http://6w6vcynl6dumn67c.onion/       托尔市场委员会      匿名市场论坛
 		http://wvk32thojln4gpp4.onion/       邪恶计划
 		http://5mvm7cg6bgklfjtp.onion/       折扣电子产品
@@ -91,7 +87,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://dbmv53j45pcv534x.onion/       网络咨询和软件开发
 		http://lw4ipk5choakk5ze.onion/raw/4585/       快速解决方案（杀手）
 		http://nr6juudpp4as4gjg.onion/tynermsr.htm       泰纳MSR商店
-药品市场
+	药品市场
 		http://rso4hutlefirefqp.onion/        EuCanna       医用大麻芽，里克·辛普森油，软膏和霜剂
 		http://newpdsuslmzqazvr.onion/       人民药店      的暗网的最佳的网上药品供应商！
 		http://smoker32pk4qt3mx.onion/        Smokeables       最好的有机大麻从美国运
@@ -108,14 +104,14 @@ onion/ URI List (All URIs come from the Internet)
 		http://k4btcoezc5tlxyaf.onion/        Kamagra的比特币
 		http://silkroadvb5piz3r.onion/silkroad/home       丝路市场
 		http://5onwnspjvuk7cwvk.onion/       黑市重装上阵
-托管
+	托管
 		http://matrixtxri745dfw.onion/       图片上传
 		http://lw4ipk5choakk5ze.onion/        PasteThis       托尔基于引擎收录
 		http://wzrtr6gpencksu3d.onion/：8080 /        Gittor
 		http://nr6juudpp4as4gjg.onion/       免费托管
 		http://tklxxs3rdzdjppnl.onion/       自由的黑客托管服务
 		http://matrixtxri745dfw.onion/       矩阵三部曲
-博客
+	博客
 		http://74ypjqjwf6oejmax.onion/        VT之下      探索弗吉尼亚理工大学的蒸汽隧道与超越
 		http://76qugh5bey5gum7l.onion/       深层网络电台
 		http://edramalpl7oq5npk.onion/Main_Page       百科全书Dramatica
@@ -133,8 +129,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://3c3bdbvhb7j6yab2.onion/        Totse 2
 		http://4fvfamdpoulu2nms.onion/       幸运Eddie的主页
 		http://nwycvryrozllb42g.onion/searchlores/index.htm        Fravia的Web搜索学问
-		http://newsiiwanaduqpre.onion/        onion/News       博客关于onion/land
-论坛和陈平
+		http://newsiiwanaduqpre.onion/onion/News       博客关于onion/land论坛和陈平
 		http://2gxxzwnj52jutais.onion/phpbb/index.php       洋葱论坛2.0更新
 		http://3fyb44wdhnd2ghhl.onion/ib/        Onii赞
 		http://bx7zrcsebkma7ids.onion/        Jisko
@@ -147,7 +142,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://hbjw7wjeoltskhol.onion/       最好器的社交网络！文件共享，短信等等。使用虚假的电子邮件注册。
 		http://t4is3dhdc2jd4yhw.onion/        onion/Forum 3.0       新onion/forum一般的谈话，现在市场
 		http://zw3crggtadila2sg.onion/imageboard/        TorChan       一个在Tor的最古老的CHANS的
-电子邮件和消息
+	电子邮件和消息
 		http://bitmailendavkbec.onion/       瑞士电子邮件
 		http://365u4txyqfy72nul.onion/       匿名电子邮件服务队。只能与其他用户正在使用该服务进行通信。所以告诉你的朋友吧！
 		http://sms4tor3vcr2geip.onion/        SMS4TOR       自毁信息
@@ -156,7 +151,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://u6lyst27lmelm6oy.onion/index.php       蓝色矩阵聊天不是所有的时间这么赤经常能看到，当它是
 		http://wi7qkxyrdpu5cmvr.onion/       自闭症/ Inventati
 		http://u4uoz3aphqbdc754.onion/       地狱在线
-政治
+	政治
 		http://6sgjmi53igmg7fm7.onion/index.php标题= Main_Page       窃听星球
 		http://faerieuaahqvzgby.onion/       费尔丽地下
 		http://2r2tz6wzqh7gaji7.onion/       高加索中心
@@ -168,12 +163,11 @@ onion/ URI List (All URIs come from the Internet)
 		http://duskgytldkxiuqc6.onion/comsense.html       的commo感由托马斯·潘恩
 		http://nwycvryrozllb42g.onion/       未知目的地
 		http://zbnnr7qzaxlk5tms.onion/       维基泄密
-黑客
+	黑客
 		http://salted7fpnlaguiq.onion/        SALT
 		http://yj5rbziqttulgidy.onion/        Itanimulli
 		http://bbxdfsru7lmmbj32.onion/marketplace/       三角洲倡议
-		http://2ogmrlfzdthnwkez.onion/       租黑客
-warez的
+		http://2ogmrlfzdthnwkez.onion/       租黑客warez的
 		http://2gxxzwnj52jutais.onion/       无处服务器（FH后，从备份中恢复）
 		http://jntlesnev5o7zysa.onion/       海盗湾      种子
 		http://am4wuhz3zifexz5u.onion/       托尔图书馆      图书库和其他媒体文件
@@ -186,10 +180,7 @@ warez的
 		http://2ygbaoezjdmacnro.onion/       小马在Noisebridge
 		http://xfmro77i3lixucja.onion/       川陀的帝国图书馆
 		http://c3jemx2ube5v5zpg.onion/        Jotunbane的读书会
-药物非商业
-
-没有找到链接。
-色情18+
+	色情18+
 		http://tklxxs3rdzdjppnl.onion/sharepass/        SharePass       密码共享社区
 		http://k4jmdeccpnsfe43c.onion/       女孩发布      一些很好的模型照片
 		http://54dgeda4ik6iypui.onion/       画廊      蛋氨酸艺术等FTVX套
@@ -197,7 +188,6 @@ warez的
 		http://2fqgjzbb2h7yevom.onion/klixen/        Klixen
 		http://orsxvca7glswueo7.onion/        EroDir       很多很多无尽的
 		http://mmgh3rqeswrlgzdr.onion/        VOR      COM
-色情硬糖
 		http://lovezspamopfiqul.onion/        TLZ讨论板
 		http://tqjhyhbso4mdcrvh.onion/sciclaycams/        Sciclay凸轮
 		http://iqlnc7cbykhhurfo.onion/       微光      图像和视频向下＆上传
@@ -212,7 +202,7 @@ warez的
 		http://tlz3gig7k46s4r66.onion/        TLZ私人论坛
 		http://vkq6wz4ozmldscii.onion/       主题链接      一个CP网站链接列表	色情Jailbait
 		http://66m4z7ygkqghb4tc.onion/       一些paradisebirds凯西视频
-非英语
+	非英语
 		http://germanyhusicaysx.onion/       德国IM的Deep Web       德国论坛
 		http://ffi5v46ttwgx3fby.onion/       这是德国2.0在这里      德国董事会
 		http://paisleli66axejos.onion/        PAIS
