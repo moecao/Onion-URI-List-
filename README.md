@@ -1,4 +1,4 @@
-# onion/      URI      List      
+# Onion URI List      
 onion/ URI List (All URIs come from the Internet)
 	自由
 		
@@ -73,6 +73,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://cipollatnumrrahd.onion/       洋葱2.0（英文）
 		
 		http://dppmfxaacucguzpc.onion/        TorDir       一个在Tor的最古老的链接列表
+	
 	金融市场
 		
 		http://torbrokerge7zxgq.onion/        TorBroker       证券交易与匿名比特币，目前支持近1000个股和ETF
@@ -102,6 +103,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://nr6juudpp4as4gjg.onion/doublecoins.html       双人您的比特币
 		
 		http://lw4ipk5choakk5ze.onion/raw/4588/       高品质教程
+	
 	市场商业服务
 		
 		http://6w6vcynl6dumn67c.onion/       托尔市场委员会      匿名市场论坛
@@ -171,6 +173,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://lw4ipk5choakk5ze.onion/raw/4585/       快速解决方案（杀手）
 		
 		http://nr6juudpp4as4gjg.onion/tynermsr.htm       泰纳MSR商店
+	
 	药品市场
 		
 		http://rso4hutlefirefqp.onion/        EuCanna       医用大麻芽，里克·辛普森油，软膏和霜剂
@@ -204,6 +207,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://silkroadvb5piz3r.onion/silkroad/home       丝路市场
 		
 		http://5onwnspjvuk7cwvk.onion/       黑市重装上阵
+	
 	托管
 		
 		http://matrixtxri745dfw.onion/       图片上传
@@ -217,6 +221,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://tklxxs3rdzdjppnl.onion/       自由的黑客托管服务
 		
 		http://matrixtxri745dfw.onion/       矩阵三部曲
+	
 	博客
 		
 		http://74ypjqjwf6oejmax.onion/        VT之下      探索弗吉尼亚理工大学的蒸汽隧道与超越
@@ -278,6 +283,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://t4is3dhdc2jd4yhw.onion/        onion/Forum 3.0       新onion/forum一般的谈话，现在市场
 		
 		http://zw3crggtadila2sg.onion/imageboard/        TorChan       一个在Tor的最古老的CHANS的
+	
 	电子邮件和消息
 		
 		http://bitmailendavkbec.onion/       瑞士电子邮件
@@ -295,6 +301,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://wi7qkxyrdpu5cmvr.onion/       自闭症/ Inventati
 		
 		http://u4uoz3aphqbdc754.onion/       地狱在线
+
 	政治
 		
 		http://6sgjmi53igmg7fm7.onion/index.php标题= Main_Page       窃听星球
@@ -318,6 +325,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://nwycvryrozllb42g.onion/       未知目的地
 		
 		http://zbnnr7qzaxlk5tms.onion/       维基泄密
+
 	黑客
 		
 		http://salted7fpnlaguiq.onion/        SALT
@@ -351,6 +359,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://xfmro77i3lixucja.onion/       川陀的帝国图书馆
 		
 		http://c3jemx2ube5v5zpg.onion/        Jotunbane的读书会
+
 	色情18+
 		
 		http://tklxxs3rdzdjppnl.onion/sharepass/        SharePass       密码共享社区
@@ -394,6 +403,7 @@ onion/ URI List (All URIs come from the Internet)
 		http://vkq6wz4ozmldscii.onion/       主题链接      一个CP网站链接列表	色情Jailbait
 		
 		http://66m4z7ygkqghb4tc.onion/       一些paradisebirds凯西视频
+
 	非英语
 		
 		http://germanyhusicaysx.onion/       德国IM的Deep Web       德国论坛
